@@ -1,0 +1,3 @@
+C:/_LABY_/Laby_Infa/2_laba/build/CMakeFiles/2_laba.dir
+C:/_LABY_/Laby_Infa/2_laba/build/CMakeFiles/edit_cache.dir
+C:/_LABY_/Laby_Infa/2_laba/build/CMakeFiles/rebuild_cache.dir
